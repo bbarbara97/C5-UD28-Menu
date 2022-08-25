@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+    color: gray;
+    font-style: italic;
+}
+
+h3 {
+    background-color: #ffdb8f;
+    font-style: normal;
+    color: #5f716c;
+}
+
+h2 {
+    color: #6d9cbe;
+}
+
+#bold {
+    font-weight: bold;
+    font-style: normal;
+    color: #758895;
+}
+
+span {
+    color: black;
+    font-weight: 100;
+    font-style: normal;
+}
